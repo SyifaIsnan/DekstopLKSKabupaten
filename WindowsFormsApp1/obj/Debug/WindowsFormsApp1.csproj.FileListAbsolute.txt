@@ -40,3 +40,17 @@ C:\Users\SAYA\Source\Repos\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\Window
 C:\Users\SAYA\Source\Repos\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\SAYA\Source\Repos\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\SAYA\Source\Repos\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formHome.resources
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formPembelian.resources
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formPenjualan.resources
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formProduk.resources
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\DekstopLKSKabupaten\DekstopLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

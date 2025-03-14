@@ -23,6 +23,8 @@ namespace WindowsFormsApp1
 
             dataGridView1.Columns.Add("harga_jual", "HARGA JUAL");
             dataGridView1.Columns.Add("total", "TOTAL");
+
+            dataGridView1.set();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

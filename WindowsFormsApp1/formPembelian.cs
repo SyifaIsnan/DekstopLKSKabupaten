@@ -23,6 +23,8 @@ namespace WindowsFormsApp1
 
             dataGridView1.Columns.Add("harga_modal", "HARGA BELI");
             dataGridView1.Columns.Add("total", "TOTAL");
+
+            dataGridView1.set();
              
         }
 
@@ -132,6 +134,11 @@ namespace WindowsFormsApp1
                     }
                 }
             }
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
