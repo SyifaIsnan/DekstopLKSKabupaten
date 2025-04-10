@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\dekstoplkskabupaten\\dekstoplkskabupaten\\windowsformsapp1\\formpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\DekstopLKSKabupaten\\DekstopLKSKabupaten\\windowsformsapp1\\formpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\dekstoplkskabupaten\\dekstoplkskabupaten\\windowsformsapp1\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\DekstopLKSKabupaten\\DekstopLKSKabupaten\\windowsformsapp1\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\dekstoplkskabupaten\\dekstoplkskabupaten\\windowsformsapp1\\formpembelian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\DekstopLKSKabupaten\\DekstopLKSKabupaten\\windowsformsapp1\\formpembelian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formpembelian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\dekstoplkskabupaten\\dekstoplkskabupaten\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\DekstopLKSKabupaten\\DekstopLKSKabupaten\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\dekstoplkskabupaten\\dekstoplkskabupaten\\windowsformsapp1\\formpembelian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\DekstopLKSKabupaten\\DekstopLKSKabupaten\\windowsformsapp1\\formpembelian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17B295E8-1D8A-4B59-8383-E9672532E115}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formpembelian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,8 +54,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:24:12.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T06:24:12.638Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\formPembelian.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwCUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:22:51.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T06:22:51.791Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\setup.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:19:54.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T06:19:54.556Z"
             },
             {
               "$type": "Document",
@@ -91,7 +88,7 @@
               "RelativeDocumentMoniker": "WindowsFormsApp1\\formPenjualan.cs",
               "ToolTip": "C:\\DekstopLKSKabupaten\\DekstopLKSKabupaten\\WindowsFormsApp1\\formPenjualan.cs*",
               "RelativeToolTip": "WindowsFormsApp1\\formPenjualan.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T06:16:50.414Z",
               "EditorCaption": ""
@@ -105,8 +102,7 @@
               "ToolTip": "C:\\DekstopLKSKabupaten\\DekstopLKSKabupaten\\WindowsFormsApp1\\formPembelian.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\formPembelian.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:16:47.137Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-14T06:16:47.137Z"
             },
             {
               "$type": "Document",
@@ -117,8 +113,7 @@
               "ToolTip": "C:\\DekstopLKSKabupaten\\DekstopLKSKabupaten\\WindowsFormsApp1\\formPenjualan.cs [Design]*",
               "RelativeToolTip": "WindowsFormsApp1\\formPenjualan.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:16:46.7Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-14T06:16:46.7Z"
             }
           ]
         }

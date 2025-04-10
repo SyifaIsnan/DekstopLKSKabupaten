@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -26,6 +27,19 @@ namespace WindowsFormsApp1
                 }
             }
             return false;
+        }
+
+        public static string enkripsi(string input)
+        {
+            MD5 md5 = MD5.Create();
+            byte[] bytes = md5.ComputeHash(UTF8Encoding.UTF8.GetBytes(input));
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < bytes.Length; i++)
+            {
+                sb.Append(bytes[i].ToString("x2"));
+
+            }
+            return sb.ToString();
         }
 
     }
